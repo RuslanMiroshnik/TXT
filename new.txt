@@ -1,0 +1,7 @@
+firstName: Ruslan
+lastName: Miroshnik
+age: 38
+pets:
+	cat: Kuzya
+	dog: Sharik
+future desired salary: 500$
