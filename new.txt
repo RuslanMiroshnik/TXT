@@ -1,5 +1,5 @@
 firstName: Ruslan
-lastName: Miroshnik
+lastName: Miroshnuk
 age: 38
 pets:
 	cat: Kuzya
